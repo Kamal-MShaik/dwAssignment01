@@ -1,5 +1,5 @@
 # dwAssignment01
-Kamal's Assignment task
+Assignment task
 Your OS : MacOS
 GitHub Experience : First time
 GitHub Tool : GUI
